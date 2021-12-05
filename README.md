@@ -1,1 +1,0 @@
-# XSEDE-PSC-resources
